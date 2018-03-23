@@ -1,0 +1,2751 @@
+0_th Game_End = Reward : 97/ Episode : 277
+1_th Game_End = Reward : 305/ Episode : 579
+2_th Game_End = Reward : 612/ Episode : 600
+3_th Game_End = Reward : 780/ Episode : 600
+4_th Game_End = Reward : 215/ Episode : 369
+0_th Game_End = Reward : 580/ Episode : 300
+1_th Game_End = Reward : 580/ Episode : 300
+2_th Game_End = Reward : 300/ Episode : 300
+3_th Game_End = Reward : 278/ Episode : 300
+4_th Game_End = Reward : 300/ Episode : 300
+5_th Game_End = Reward : 560/ Episode : 300
+6_th Game_End = Reward : 300/ Episode : 300
+7_th Game_End = Reward : 320/ Episode : 300
+8_th Game_End = Reward : 560/ Episode : 300
+9_th Game_End = Reward : 620/ Episode : 300
+10_th Game_End = Reward : 228/ Episode : 300
+11_th Game_End = Reward : 700/ Episode : 300
+12_th Game_End = Reward : 700/ Episode : 300
+13_th Game_End = Reward : 900/ Episode : 300
+14_th Game_End = Reward : 660/ Episode : 300
+15_th Game_End = Reward : 300/ Episode : 300
+16_th Game_End = Reward : 300/ Episode : 300
+17_th Game_End = Reward : 720/ Episode : 300
+18_th Game_End = Reward : 820/ Episode : 300
+19_th Game_End = Reward : 420/ Episode : 300
+20_th Game_End = Reward : 300/ Episode : 300
+21_th Game_End = Reward : 298/ Episode : 300
+22_th Game_End = Reward : 740/ Episode : 300
+23_th Game_End = Reward : 268/ Episode : 300
+24_th Game_End = Reward : 880/ Episode : 300
+25_th Game_End = Reward : 258/ Episode : 300
+26_th Game_End = Reward : 900/ Episode : 300
+27_th Game_End = Reward : 300/ Episode : 300
+28_th Game_End = Reward : 73/ Episode : 265
+29_th Game_End = Reward : 378/ Episode : 300
+30_th Game_End = Reward : 300/ Episode : 300
+31_th Game_End = Reward : 940/ Episode : 300
+32_th Game_End = Reward : 434/ Episode : 300
+33_th Game_End = Reward : 300/ Episode : 300
+34_th Game_End = Reward : 300/ Episode : 300
+35_th Game_End = Reward : 640/ Episode : 300
+36_th Game_End = Reward : 580/ Episode : 300
+37_th Game_End = Reward : 320/ Episode : 300
+38_th Game_End = Reward : 340/ Episode : 300
+39_th Game_End = Reward : 316/ Episode : 300
+40_th Game_End = Reward : 420/ Episode : 300
+41_th Game_End = Reward : 300/ Episode : 300
+42_th Game_End = Reward : 292/ Episode : 300
+43_th Game_End = Reward : 820/ Episode : 300
+44_th Game_End = Reward : 300/ Episode : 300
+45_th Game_End = Reward : 700/ Episode : 300
+46_th Game_End = Reward : 230/ Episode : 300
+47_th Game_End = Reward : 300/ Episode : 300
+48_th Game_End = Reward : 480/ Episode : 300
+49_th Game_End = Reward : 300/ Episode : 300
+50_th Game_End = Reward : 1620/ Episode : 300
+51_th Game_End = Reward : 340/ Episode : 300
+52_th Game_End = Reward : 540/ Episode : 300
+53_th Game_End = Reward : 600/ Episode : 300
+54_th Game_End = Reward : 360/ Episode : 300
+55_th Game_End = Reward : 300/ Episode : 300
+56_th Game_End = Reward : 580/ Episode : 300
+57_th Game_End = Reward : 300/ Episode : 300
+58_th Game_End = Reward : 320/ Episode : 300
+59_th Game_End = Reward : 300/ Episode : 300
+60_th Game_End = Reward : 1180/ Episode : 300
+61_th Game_End = Reward : 196/ Episode : 300
+62_th Game_End = Reward : 300/ Episode : 300
+63_th Game_End = Reward : 232/ Episode : 300
+64_th Game_End = Reward : 920/ Episode : 300
+65_th Game_End = Reward : -24/ Episode : 178
+66_th Game_End = Reward : -3/ Episode : 185
+67_th Game_End = Reward : 159/ Episode : 231
+68_th Game_End = Reward : -35/ Episode : 149
+69_th Game_End = Reward : 910/ Episode : 300
+70_th Game_End = Reward : -6/ Episode : 124
+71_th Game_End = Reward : 392/ Episode : 300
+72_th Game_End = Reward : -102/ Episode : 58
+73_th Game_End = Reward : 1/ Episode : 205
+74_th Game_End = Reward : 513/ Episode : 215
+75_th Game_End = Reward : 146/ Episode : 268
+76_th Game_End = Reward : -1/ Episode : 201
+77_th Game_End = Reward : 50/ Episode : 212
+78_th Game_End = Reward : 159/ Episode : 281
+79_th Game_End = Reward : -18/ Episode : 184
+80_th Game_End = Reward : -2/ Episode : 200
+81_th Game_End = Reward : 1240/ Episode : 300
+82_th Game_End = Reward : 300/ Episode : 300
+83_th Game_End = Reward : 217/ Episode : 217
+84_th Game_End = Reward : -63/ Episode : 139
+85_th Game_End = Reward : 631/ Episode : 253
+86_th Game_End = Reward : 640/ Episode : 300
+87_th Game_End = Reward : -2/ Episode : 204
+88_th Game_End = Reward : 740/ Episode : 300
+89_th Game_End = Reward : 464/ Episode : 300
+90_th Game_End = Reward : 358/ Episode : 234
+91_th Game_End = Reward : 4/ Episode : 214
+92_th Game_End = Reward : 780/ Episode : 300
+93_th Game_End = Reward : 369/ Episode : 241
+94_th Game_End = Reward : 640/ Episode : 300
+95_th Game_End = Reward : 228/ Episode : 300
+96_th Game_End = Reward : 89/ Episode : 273
+97_th Game_End = Reward : 184/ Episode : 252
+98_th Game_End = Reward : -51/ Episode : 159
+99_th Game_End = Reward : 578/ Episode : 300
+100_th Game_End = Reward : 82/ Episode : 220
+101_th Game_End = Reward : 1120/ Episode : 300
+102_th Game_End = Reward : -64/ Episode : 138
+103_th Game_End = Reward : 77/ Episode : 279
+104_th Game_End = Reward : 71/ Episode : 275
+105_th Game_End = Reward : 454/ Episode : 284
+106_th Game_End = Reward : 858/ Episode : 280
+107_th Game_End = Reward : -10/ Episode : 152
+108_th Game_End = Reward : 260/ Episode : 300
+109_th Game_End = Reward : -74/ Episode : 128
+110_th Game_End = Reward : 360/ Episode : 300
+111_th Game_End = Reward : 17/ Episode : 219
+112_th Game_End = Reward : 1480/ Episode : 300
+113_th Game_End = Reward : 940/ Episode : 300
+114_th Game_End = Reward : 262/ Episode : 300
+115_th Game_End = Reward : -59/ Episode : 231
+116_th Game_End = Reward : 298/ Episode : 300
+117_th Game_End = Reward : 72/ Episode : 274
+118_th Game_End = Reward : 300/ Episode : 300
+119_th Game_End = Reward : 73/ Episode : 275
+120_th Game_End = Reward : 640/ Episode : 300
+121_th Game_End = Reward : 500/ Episode : 300
+122_th Game_End = Reward : 114/ Episode : 276
+123_th Game_End = Reward : 1700/ Episode : 300
+124_th Game_End = Reward : 350/ Episode : 300
+125_th Game_End = Reward : 370/ Episode : 292
+126_th Game_End = Reward : 60/ Episode : 262
+127_th Game_End = Reward : 582/ Episode : 288
+128_th Game_End = Reward : 490/ Episode : 300
+129_th Game_End = Reward : 290/ Episode : 300
+130_th Game_End = Reward : 1160/ Episode : 300
+131_th Game_End = Reward : 64/ Episode : 268
+132_th Game_End = Reward : 760/ Episode : 262
+133_th Game_End = Reward : -1/ Episode : 201
+134_th Game_End = Reward : 760/ Episode : 300
+135_th Game_End = Reward : 388/ Episode : 300
+136_th Game_End = Reward : 800/ Episode : 300
+137_th Game_End = Reward : 286/ Episode : 300
+138_th Game_End = Reward : 880/ Episode : 300
+139_th Game_End = Reward : 1000/ Episode : 300
+140_th Game_End = Reward : 1460/ Episode : 300
+141_th Game_End = Reward : 480/ Episode : 300
+142_th Game_End = Reward : 1000/ Episode : 300
+143_th Game_End = Reward : -94/ Episode : 108
+144_th Game_End = Reward : -45/ Episode : 157
+145_th Game_End = Reward : 1000/ Episode : 300
+146_th Game_End = Reward : 71/ Episode : 279
+147_th Game_End = Reward : -43/ Episode : 159
+148_th Game_End = Reward : 420/ Episode : 300
+149_th Game_End = Reward : 1320/ Episode : 300
+150_th Game_End = Reward : 125/ Episode : 287
+151_th Game_End = Reward : 344/ Episode : 280
+152_th Game_End = Reward : 1760/ Episode : 300
+153_th Game_End = Reward : 518/ Episode : 300
+154_th Game_End = Reward : 43/ Episode : 245
+155_th Game_End = Reward : 250/ Episode : 300
+156_th Game_End = Reward : 1237/ Episode : 299
+157_th Game_End = Reward : 214/ Episode : 246
+158_th Game_End = Reward : 1360/ Episode : 300
+159_th Game_End = Reward : 820/ Episode : 300
+160_th Game_End = Reward : 960/ Episode : 300
+161_th Game_End = Reward : 340/ Episode : 300
+162_th Game_End = Reward : 2420/ Episode : 300
+163_th Game_End = Reward : 960/ Episode : 300
+164_th Game_End = Reward : 221/ Episode : 283
+165_th Game_End = Reward : 2800/ Episode : 300
+166_th Game_End = Reward : 1126/ Episode : 300
+167_th Game_End = Reward : 736/ Episode : 278
+168_th Game_End = Reward : 320/ Episode : 300
+169_th Game_End = Reward : 1080/ Episode : 300
+170_th Game_End = Reward : 560/ Episode : 300
+171_th Game_End = Reward : 560/ Episode : 300
+172_th Game_End = Reward : 780/ Episode : 300
+173_th Game_End = Reward : 888/ Episode : 300
+174_th Game_End = Reward : 71/ Episode : 275
+175_th Game_End = Reward : 5/ Episode : 213
+176_th Game_End = Reward : 1500/ Episode : 300
+177_th Game_End = Reward : 1062/ Episode : 300
+178_th Game_End = Reward : 29/ Episode : 237
+179_th Game_End = Reward : 550/ Episode : 300
+180_th Game_End = Reward : 749/ Episode : 271
+181_th Game_End = Reward : 258/ Episode : 300
+182_th Game_End = Reward : 520/ Episode : 300
+183_th Game_End = Reward : 46/ Episode : 268
+184_th Game_End = Reward : 780/ Episode : 300
+185_th Game_End = Reward : 300/ Episode : 300
+186_th Game_End = Reward : 1040/ Episode : 300
+187_th Game_End = Reward : 740/ Episode : 300
+188_th Game_End = Reward : 340/ Episode : 300
+189_th Game_End = Reward : 292/ Episode : 300
+190_th Game_End = Reward : 300/ Episode : 300
+191_th Game_End = Reward : 1180/ Episode : 300
+192_th Game_End = Reward : 580/ Episode : 300
+193_th Game_End = Reward : 480/ Episode : 300
+194_th Game_End = Reward : 305/ Episode : 287
+195_th Game_End = Reward : 835/ Episode : 257
+196_th Game_End = Reward : 146/ Episode : 268
+197_th Game_End = Reward : 1000/ Episode : 300
+198_th Game_End = Reward : 1740/ Episode : 300
+199_th Game_End = Reward : 478/ Episode : 300
+200_th Game_End = Reward : 2680/ Episode : 300
+201_th Game_End = Reward : 300/ Episode : 300
+202_th Game_End = Reward : 67/ Episode : 269
+203_th Game_End = Reward : 70/ Episode : 212
+204_th Game_End = Reward : 94/ Episode : 296
+205_th Game_End = Reward : 380/ Episode : 300
+206_th Game_End = Reward : 29/ Episode : 231
+207_th Game_End = Reward : 1020/ Episode : 300
+208_th Game_End = Reward : 128/ Episode : 190
+209_th Game_End = Reward : 2280/ Episode : 300
+210_th Game_End = Reward : 1880/ Episode : 300
+211_th Game_End = Reward : 1740/ Episode : 300
+212_th Game_End = Reward : 1300/ Episode : 300
+213_th Game_End = Reward : 268/ Episode : 300
+214_th Game_End = Reward : 194/ Episode : 300
+215_th Game_End = Reward : 1200/ Episode : 300
+216_th Game_End = Reward : 1520/ Episode : 300
+217_th Game_End = Reward : 360/ Episode : 300
+218_th Game_End = Reward : 600/ Episode : 300
+219_th Game_End = Reward : 940/ Episode : 300
+220_th Game_End = Reward : 61/ Episode : 265
+221_th Game_End = Reward : 1620/ Episode : 300
+222_th Game_End = Reward : 520/ Episode : 300
+223_th Game_End = Reward : 300/ Episode : 300
+224_th Game_End = Reward : 2060/ Episode : 300
+225_th Game_End = Reward : 300/ Episode : 300
+226_th Game_End = Reward : 61/ Episode : 263
+227_th Game_End = Reward : 300/ Episode : 300
+228_th Game_End = Reward : 1380/ Episode : 300
+229_th Game_End = Reward : 1640/ Episode : 300
+230_th Game_End = Reward : 1920/ Episode : 300
+231_th Game_End = Reward : 1160/ Episode : 300
+232_th Game_End = Reward : 1700/ Episode : 300
+233_th Game_End = Reward : 294/ Episode : 300
+234_th Game_End = Reward : 1740/ Episode : 300
+235_th Game_End = Reward : 2160/ Episode : 300
+236_th Game_End = Reward : 1900/ Episode : 300
+237_th Game_End = Reward : 1520/ Episode : 300
+238_th Game_End = Reward : 1360/ Episode : 300
+239_th Game_End = Reward : 1560/ Episode : 300
+240_th Game_End = Reward : 3180/ Episode : 300
+241_th Game_End = Reward : 1640/ Episode : 300
+242_th Game_End = Reward : 2260/ Episode : 300
+243_th Game_End = Reward : 920/ Episode : 300
+244_th Game_End = Reward : 1160/ Episode : 300
+245_th Game_End = Reward : 1340/ Episode : 300
+246_th Game_End = Reward : 2340/ Episode : 300
+247_th Game_End = Reward : 90/ Episode : 294
+248_th Game_End = Reward : 300/ Episode : 300
+249_th Game_End = Reward : 19/ Episode : 161
+250_th Game_End = Reward : 320/ Episode : 300
+251_th Game_End = Reward : 420/ Episode : 300
+252_th Game_End = Reward : 580/ Episode : 300
+253_th Game_End = Reward : 1600/ Episode : 300
+254_th Game_End = Reward : 860/ Episode : 300
+255_th Game_End = Reward : 2720/ Episode : 300
+256_th Game_End = Reward : 1920/ Episode : 300
+257_th Game_End = Reward : 1380/ Episode : 300
+258_th Game_End = Reward : 1720/ Episode : 300
+259_th Game_End = Reward : 1160/ Episode : 300
+260_th Game_End = Reward : 658/ Episode : 300
+261_th Game_End = Reward : 838/ Episode : 300
+262_th Game_End = Reward : 1560/ Episode : 300
+263_th Game_End = Reward : 600/ Episode : 300
+264_th Game_End = Reward : 1520/ Episode : 300
+265_th Game_End = Reward : -10/ Episode : 194
+266_th Game_End = Reward : 511/ Episode : 253
+267_th Game_End = Reward : 859/ Episode : 261
+268_th Game_End = Reward : 392/ Episode : 300
+269_th Game_End = Reward : 1060/ Episode : 300
+270_th Game_End = Reward : 580/ Episode : 300
+271_th Game_End = Reward : 374/ Episode : 300
+272_th Game_End = Reward : 1200/ Episode : 300
+273_th Game_End = Reward : 1580/ Episode : 300
+274_th Game_End = Reward : 80/ Episode : 282
+275_th Game_End = Reward : 493/ Episode : 295
+276_th Game_End = Reward : 27/ Episode : 279
+277_th Game_End = Reward : 1800/ Episode : 300
+278_th Game_End = Reward : 380/ Episode : 300
+279_th Game_End = Reward : 1040/ Episode : 300
+280_th Game_End = Reward : 2100/ Episode : 300
+281_th Game_End = Reward : 2380/ Episode : 300
+282_th Game_End = Reward : 480/ Episode : 300
+283_th Game_End = Reward : 1760/ Episode : 300
+284_th Game_End = Reward : 320/ Episode : 300
+285_th Game_End = Reward : 95/ Episode : 297
+286_th Game_End = Reward : 1360/ Episode : 300
+287_th Game_End = Reward : 19/ Episode : 221
+288_th Game_End = Reward : 300/ Episode : 300
+289_th Game_End = Reward : 1520/ Episode : 300
+290_th Game_End = Reward : 3060/ Episode : 300
+291_th Game_End = Reward : 1240/ Episode : 300
+292_th Game_End = Reward : 276/ Episode : 300
+293_th Game_End = Reward : 300/ Episode : 300
+294_th Game_End = Reward : 1460/ Episode : 300
+295_th Game_End = Reward : 3460/ Episode : 300
+296_th Game_End = Reward : 264/ Episode : 166
+297_th Game_End = Reward : 2140/ Episode : 300
+298_th Game_End = Reward : 1400/ Episode : 300
+299_th Game_End = Reward : 348/ Episode : 300
+300_th Game_End = Reward : 960/ Episode : 300
+301_th Game_End = Reward : 4040/ Episode : 300
+302_th Game_End = Reward : 340/ Episode : 300
+303_th Game_End = Reward : 3460/ Episode : 300
+304_th Game_End = Reward : 2180/ Episode : 300
+305_th Game_End = Reward : 33/ Episode : 237
+306_th Game_End = Reward : 2140/ Episode : 300
+307_th Game_End = Reward : 300/ Episode : 300
+308_th Game_End = Reward : 1140/ Episode : 300
+309_th Game_End = Reward : 816/ Episode : 300
+310_th Game_End = Reward : 1340/ Episode : 300
+311_th Game_End = Reward : 300/ Episode : 300
+312_th Game_End = Reward : 560/ Episode : 300
+313_th Game_End = Reward : 1940/ Episode : 300
+314_th Game_End = Reward : 2280/ Episode : 300
+315_th Game_End = Reward : 1640/ Episode : 300
+316_th Game_End = Reward : 741/ Episode : 283
+317_th Game_End = Reward : 1000/ Episode : 300
+318_th Game_End = Reward : 1540/ Episode : 300
+319_th Game_End = Reward : 520/ Episode : 300
+320_th Game_End = Reward : 520/ Episode : 300
+321_th Game_End = Reward : 40/ Episode : 242
+322_th Game_End = Reward : 360/ Episode : 300
+323_th Game_End = Reward : 1960/ Episode : 300
+324_th Game_End = Reward : 300/ Episode : 300
+325_th Game_End = Reward : 1460/ Episode : 300
+326_th Game_End = Reward : 300/ Episode : 300
+327_th Game_End = Reward : -75/ Episode : 133
+328_th Game_End = Reward : 1900/ Episode : 300
+329_th Game_End = Reward : 2300/ Episode : 300
+330_th Game_End = Reward : 1320/ Episode : 300
+331_th Game_End = Reward : 720/ Episode : 300
+332_th Game_End = Reward : 680/ Episode : 300
+333_th Game_End = Reward : 600/ Episode : 300
+334_th Game_End = Reward : 920/ Episode : 300
+335_th Game_End = Reward : 560/ Episode : 300
+336_th Game_End = Reward : 678/ Episode : 300
+337_th Game_End = Reward : 780/ Episode : 300
+338_th Game_End = Reward : 58/ Episode : 264
+339_th Game_End = Reward : 2280/ Episode : 300
+340_th Game_End = Reward : 1140/ Episode : 300
+341_th Game_End = Reward : -21/ Episode : 181
+342_th Game_End = Reward : 284/ Episode : 300
+343_th Game_End = Reward : 1120/ Episode : 300
+344_th Game_End = Reward : 1640/ Episode : 300
+345_th Game_End = Reward : 300/ Episode : 300
+346_th Game_End = Reward : 860/ Episode : 300
+347_th Game_End = Reward : 720/ Episode : 300
+348_th Game_End = Reward : 420/ Episode : 300
+349_th Game_End = Reward : 2720/ Episode : 300
+350_th Game_End = Reward : 415/ Episode : 237
+351_th Game_End = Reward : 300/ Episode : 300
+352_th Game_End = Reward : 534/ Episode : 300
+353_th Game_End = Reward : 300/ Episode : 300
+354_th Game_End = Reward : 1440/ Episode : 300
+355_th Game_End = Reward : 800/ Episode : 300
+356_th Game_End = Reward : 300/ Episode : 300
+357_th Game_End = Reward : 2240/ Episode : 300
+358_th Game_End = Reward : 300/ Episode : 300
+359_th Game_End = Reward : 1460/ Episode : 300
+360_th Game_End = Reward : 760/ Episode : 300
+361_th Game_End = Reward : 560/ Episode : 300
+362_th Game_End = Reward : 2980/ Episode : 300
+363_th Game_End = Reward : 1140/ Episode : 300
+364_th Game_End = Reward : 1000/ Episode : 300
+365_th Game_End = Reward : 1460/ Episode : 300
+366_th Game_End = Reward : 3180/ Episode : 300
+367_th Game_End = Reward : 1080/ Episode : 300
+368_th Game_End = Reward : 740/ Episode : 300
+369_th Game_End = Reward : 1020/ Episode : 300
+370_th Game_End = Reward : 940/ Episode : 300
+371_th Game_End = Reward : 300/ Episode : 300
+372_th Game_End = Reward : 2320/ Episode : 300
+373_th Game_End = Reward : 1780/ Episode : 300
+374_th Game_End = Reward : 586/ Episode : 300
+375_th Game_End = Reward : 580/ Episode : 300
+376_th Game_End = Reward : -3/ Episode : 203
+377_th Game_End = Reward : 1360/ Episode : 300
+378_th Game_End = Reward : 1080/ Episode : 300
+379_th Game_End = Reward : 300/ Episode : 252
+380_th Game_End = Reward : 1860/ Episode : 300
+381_th Game_End = Reward : 1180/ Episode : 300
+382_th Game_End = Reward : 1320/ Episode : 300
+383_th Game_End = Reward : 203/ Episode : 285
+384_th Game_End = Reward : 300/ Episode : 300
+385_th Game_End = Reward : 620/ Episode : 300
+386_th Game_End = Reward : 306/ Episode : 300
+387_th Game_End = Reward : 73/ Episode : 281
+388_th Game_End = Reward : 55/ Episode : 257
+389_th Game_End = Reward : 300/ Episode : 300
+390_th Game_End = Reward : 300/ Episode : 300
+391_th Game_End = Reward : 2300/ Episode : 300
+392_th Game_End = Reward : 48/ Episode : 252
+393_th Game_End = Reward : 58/ Episode : 260
+394_th Game_End = Reward : 820/ Episode : 300
+395_th Game_End = Reward : 680/ Episode : 300
+396_th Game_End = Reward : 234/ Episode : 296
+397_th Game_End = Reward : 1284/ Episode : 300
+398_th Game_End = Reward : 2180/ Episode : 300
+399_th Game_End = Reward : 510/ Episode : 300
+400_th Game_End = Reward : 594/ Episode : 300
+401_th Game_End = Reward : 216/ Episode : 300
+402_th Game_End = Reward : 1920/ Episode : 300
+403_th Game_End = Reward : 231/ Episode : 273
+404_th Game_End = Reward : 1900/ Episode : 300
+405_th Game_End = Reward : 300/ Episode : 300
+406_th Game_End = Reward : 420/ Episode : 300
+407_th Game_End = Reward : 496/ Episode : 300
+408_th Game_End = Reward : 560/ Episode : 300
+409_th Game_End = Reward : 688/ Episode : 300
+410_th Game_End = Reward : 940/ Episode : 300
+411_th Game_End = Reward : 1160/ Episode : 300
+412_th Game_End = Reward : 1504/ Episode : 300
+413_th Game_End = Reward : 820/ Episode : 300
+414_th Game_End = Reward : 340/ Episode : 300
+415_th Game_End = Reward : 420/ Episode : 300
+416_th Game_End = Reward : 2520/ Episode : 300
+417_th Game_End = Reward : 186/ Episode : 268
+418_th Game_End = Reward : 880/ Episode : 300
+419_th Game_End = Reward : 1180/ Episode : 300
+420_th Game_End = Reward : 300/ Episode : 300
+421_th Game_End = Reward : 760/ Episode : 300
+422_th Game_End = Reward : 1700/ Episode : 300
+423_th Game_End = Reward : 272/ Episode : 300
+424_th Game_End = Reward : 74/ Episode : 276
+425_th Game_End = Reward : 1216/ Episode : 300
+426_th Game_End = Reward : 6/ Episode : 208
+427_th Game_End = Reward : 480/ Episode : 300
+428_th Game_End = Reward : 65/ Episode : 269
+429_th Game_End = Reward : 420/ Episode : 300
+430_th Game_End = Reward : 598/ Episode : 300
+431_th Game_End = Reward : 760/ Episode : 300
+432_th Game_End = Reward : 380/ Episode : 300
+433_th Game_End = Reward : 300/ Episode : 300
+434_th Game_End = Reward : 300/ Episode : 300
+435_th Game_End = Reward : 600/ Episode : 300
+436_th Game_End = Reward : 440/ Episode : 300
+437_th Game_End = Reward : 2140/ Episode : 300
+438_th Game_End = Reward : 19/ Episode : 221
+439_th Game_End = Reward : 3240/ Episode : 300
+440_th Game_End = Reward : 860/ Episode : 300
+441_th Game_End = Reward : 1000/ Episode : 300
+442_th Game_End = Reward : 500/ Episode : 300
+443_th Game_End = Reward : 828/ Episode : 300
+444_th Game_End = Reward : 1100/ Episode : 300
+445_th Game_End = Reward : 1980/ Episode : 300
+446_th Game_End = Reward : 1980/ Episode : 300
+447_th Game_End = Reward : 1820/ Episode : 300
+448_th Game_End = Reward : 700/ Episode : 300
+449_th Game_End = Reward : 980/ Episode : 300
+450_th Game_End = Reward : 2360/ Episode : 300
+451_th Game_End = Reward : 3300/ Episode : 300
+452_th Game_End = Reward : 1340/ Episode : 300
+453_th Game_End = Reward : 190/ Episode : 272
+454_th Game_End = Reward : 1740/ Episode : 300
+455_th Game_End = Reward : 820/ Episode : 300
+456_th Game_End = Reward : 440/ Episode : 300
+457_th Game_End = Reward : 93/ Episode : 295
+458_th Game_End = Reward : 2360/ Episode : 300
+459_th Game_End = Reward : 1060/ Episode : 300
+460_th Game_End = Reward : 1920/ Episode : 300
+461_th Game_End = Reward : 1120/ Episode : 300
+462_th Game_End = Reward : 1300/ Episode : 300
+463_th Game_End = Reward : 2320/ Episode : 300
+464_th Game_End = Reward : 1056/ Episode : 300
+465_th Game_End = Reward : 42/ Episode : 250
+466_th Game_End = Reward : 920/ Episode : 300
+467_th Game_End = Reward : 500/ Episode : 300
+468_th Game_End = Reward : 2320/ Episode : 300
+469_th Game_End = Reward : 96/ Episode : 298
+470_th Game_End = Reward : 460/ Episode : 300
+471_th Game_End = Reward : 1480/ Episode : 300
+472_th Game_End = Reward : 340/ Episode : 300
+473_th Game_End = Reward : 340/ Episode : 300
+474_th Game_End = Reward : 1048/ Episode : 300
+475_th Game_End = Reward : 59/ Episode : 263
+476_th Game_End = Reward : 1620/ Episode : 300
+477_th Game_End = Reward : 840/ Episode : 300
+478_th Game_End = Reward : 820/ Episode : 300
+479_th Game_End = Reward : 300/ Episode : 300
+480_th Game_End = Reward : 1540/ Episode : 300
+481_th Game_End = Reward : 340/ Episode : 300
+482_th Game_End = Reward : 480/ Episode : 300
+483_th Game_End = Reward : 540/ Episode : 300
+484_th Game_End = Reward : 960/ Episode : 300
+485_th Game_End = Reward : 7/ Episode : 209
+486_th Game_End = Reward : 330/ Episode : 300
+487_th Game_End = Reward : 300/ Episode : 300
+488_th Game_End = Reward : 560/ Episode : 300
+489_th Game_End = Reward : 1400/ Episode : 300
+490_th Game_End = Reward : 3360/ Episode : 300
+491_th Game_End = Reward : 300/ Episode : 300
+492_th Game_End = Reward : 1760/ Episode : 300
+493_th Game_End = Reward : 1280/ Episode : 300
+494_th Game_End = Reward : 1380/ Episode : 300
+495_th Game_End = Reward : 300/ Episode : 300
+496_th Game_End = Reward : 400/ Episode : 300
+497_th Game_End = Reward : 620/ Episode : 300
+498_th Game_End = Reward : 1080/ Episode : 300
+499_th Game_End = Reward : 908/ Episode : 300
+500_th Game_End = Reward : 1360/ Episode : 300
+501_th Game_End = Reward : 660/ Episode : 300
+502_th Game_End = Reward : 520/ Episode : 300
+503_th Game_End = Reward : 1900/ Episode : 300
+504_th Game_End = Reward : 2440/ Episode : 300
+505_th Game_End = Reward : 700/ Episode : 300
+506_th Game_End = Reward : 940/ Episode : 300
+507_th Game_End = Reward : 1340/ Episode : 300
+508_th Game_End = Reward : 900/ Episode : 300
+509_th Game_End = Reward : 1600/ Episode : 300
+510_th Game_End = Reward : 2500/ Episode : 300
+511_th Game_End = Reward : 740/ Episode : 300
+512_th Game_End = Reward : 820/ Episode : 300
+513_th Game_End = Reward : 230/ Episode : 300
+514_th Game_End = Reward : 634/ Episode : 300
+515_th Game_End = Reward : 1320/ Episode : 300
+516_th Game_End = Reward : 3060/ Episode : 300
+517_th Game_End = Reward : 1260/ Episode : 300
+518_th Game_End = Reward : 360/ Episode : 300
+519_th Game_End = Reward : 1160/ Episode : 300
+520_th Game_End = Reward : 1700/ Episode : 300
+521_th Game_End = Reward : 780/ Episode : 300
+522_th Game_End = Reward : 500/ Episode : 300
+523_th Game_End = Reward : 2060/ Episode : 300
+524_th Game_End = Reward : 580/ Episode : 300
+525_th Game_End = Reward : 1740/ Episode : 300
+526_th Game_End = Reward : 1160/ Episode : 300
+527_th Game_End = Reward : 1780/ Episode : 300
+528_th Game_End = Reward : 1020/ Episode : 300
+529_th Game_End = Reward : 1260/ Episode : 300
+530_th Game_End = Reward : 380/ Episode : 300
+531_th Game_End = Reward : 800/ Episode : 300
+532_th Game_End = Reward : 2180/ Episode : 300
+533_th Game_End = Reward : 840/ Episode : 300
+534_th Game_End = Reward : 1280/ Episode : 300
+535_th Game_End = Reward : 300/ Episode : 300
+536_th Game_End = Reward : 202/ Episode : 186
+537_th Game_End = Reward : -57/ Episode : 155
+538_th Game_End = Reward : 300/ Episode : 300
+539_th Game_End = Reward : 240/ Episode : 300
+540_th Game_End = Reward : 2720/ Episode : 300
+541_th Game_End = Reward : 440/ Episode : 300
+542_th Game_End = Reward : 920/ Episode : 300
+543_th Game_End = Reward : 2220/ Episode : 300
+544_th Game_End = Reward : 1500/ Episode : 300
+545_th Game_End = Reward : 940/ Episode : 300
+546_th Game_End = Reward : 400/ Episode : 300
+547_th Game_End = Reward : 1880/ Episode : 300
+548_th Game_End = Reward : 620/ Episode : 300
+549_th Game_End = Reward : 1800/ Episode : 300
+550_th Game_End = Reward : 780/ Episode : 300
+551_th Game_End = Reward : 500/ Episode : 300
+552_th Game_End = Reward : 1100/ Episode : 300
+553_th Game_End = Reward : 300/ Episode : 300
+554_th Game_End = Reward : 1980/ Episode : 300
+555_th Game_End = Reward : 1620/ Episode : 300
+556_th Game_End = Reward : 1600/ Episode : 300
+557_th Game_End = Reward : 820/ Episode : 300
+558_th Game_End = Reward : 840/ Episode : 300
+559_th Game_End = Reward : 1140/ Episode : 300
+560_th Game_End = Reward : 2660/ Episode : 300
+561_th Game_End = Reward : 1000/ Episode : 300
+562_th Game_End = Reward : 980/ Episode : 300
+563_th Game_End = Reward : 998/ Episode : 300
+564_th Game_End = Reward : 56/ Episode : 264
+565_th Game_End = Reward : 1500/ Episode : 300
+566_th Game_End = Reward : 320/ Episode : 300
+567_th Game_End = Reward : 1020/ Episode : 300
+568_th Game_End = Reward : 42/ Episode : 244
+569_th Game_End = Reward : 1360/ Episode : 300
+570_th Game_End = Reward : -48/ Episode : 154
+571_th Game_End = Reward : 3080/ Episode : 300
+572_th Game_End = Reward : 3160/ Episode : 300
+573_th Game_End = Reward : 980/ Episode : 300
+574_th Game_End = Reward : 1600/ Episode : 300
+575_th Game_End = Reward : 1380/ Episode : 300
+576_th Game_End = Reward : 1100/ Episode : 300
+577_th Game_End = Reward : 1640/ Episode : 300
+578_th Game_End = Reward : 1120/ Episode : 300
+579_th Game_End = Reward : 300/ Episode : 300
+580_th Game_End = Reward : 1760/ Episode : 300
+581_th Game_End = Reward : 1560/ Episode : 300
+582_th Game_End = Reward : 1100/ Episode : 300
+583_th Game_End = Reward : 340/ Episode : 300
+584_th Game_End = Reward : 300/ Episode : 300
+585_th Game_End = Reward : 1200/ Episode : 300
+586_th Game_End = Reward : 680/ Episode : 300
+587_th Game_End = Reward : 380/ Episode : 300
+588_th Game_End = Reward : 2640/ Episode : 300
+589_th Game_End = Reward : 900/ Episode : 300
+590_th Game_End = Reward : 2260/ Episode : 300
+591_th Game_End = Reward : 620/ Episode : 300
+592_th Game_End = Reward : 300/ Episode : 300
+593_th Game_End = Reward : 620/ Episode : 300
+594_th Game_End = Reward : 2380/ Episode : 300
+595_th Game_End = Reward : 192/ Episode : 300
+596_th Game_End = Reward : 760/ Episode : 300
+597_th Game_End = Reward : 300/ Episode : 300
+598_th Game_End = Reward : 1340/ Episode : 300
+599_th Game_End = Reward : 600/ Episode : 300
+600_th Game_End = Reward : 1380/ Episode : 300
+601_th Game_End = Reward : 1380/ Episode : 300
+602_th Game_End = Reward : 176/ Episode : 300
+603_th Game_End = Reward : 540/ Episode : 300
+604_th Game_End = Reward : 1620/ Episode : 300
+605_th Game_End = Reward : 920/ Episode : 300
+606_th Game_End = Reward : 320/ Episode : 300
+607_th Game_End = Reward : 880/ Episode : 300
+608_th Game_End = Reward : 720/ Episode : 300
+609_th Game_End = Reward : 1280/ Episode : 300
+610_th Game_End = Reward : 1560/ Episode : 300
+611_th Game_End = Reward : 360/ Episode : 300
+612_th Game_End = Reward : 1500/ Episode : 300
+613_th Game_End = Reward : 2140/ Episode : 300
+614_th Game_End = Reward : 236/ Episode : 300
+615_th Game_End = Reward : 300/ Episode : 300
+616_th Game_End = Reward : 1100/ Episode : 300
+617_th Game_End = Reward : 300/ Episode : 300
+618_th Game_End = Reward : 520/ Episode : 300
+619_th Game_End = Reward : 340/ Episode : 300
+620_th Game_End = Reward : 1080/ Episode : 300
+621_th Game_End = Reward : 780/ Episode : 300
+622_th Game_End = Reward : 780/ Episode : 300
+623_th Game_End = Reward : 300/ Episode : 300
+624_th Game_End = Reward : 48/ Episode : 230
+625_th Game_End = Reward : 860/ Episode : 300
+626_th Game_End = Reward : 640/ Episode : 300
+627_th Game_End = Reward : 300/ Episode : 300
+628_th Game_End = Reward : 214/ Episode : 300
+629_th Game_End = Reward : 760/ Episode : 300
+630_th Game_End = Reward : 1600/ Episode : 300
+631_th Game_End = Reward : 800/ Episode : 300
+632_th Game_End = Reward : 2560/ Episode : 300
+633_th Game_End = Reward : 440/ Episode : 300
+634_th Game_End = Reward : 1060/ Episode : 300
+635_th Game_End = Reward : 2340/ Episode : 300
+636_th Game_End = Reward : 800/ Episode : 300
+637_th Game_End = Reward : 55/ Episode : 281
+638_th Game_End = Reward : 2900/ Episode : 300
+639_th Game_End = Reward : 940/ Episode : 300
+640_th Game_End = Reward : 920/ Episode : 300
+641_th Game_End = Reward : 2280/ Episode : 300
+642_th Game_End = Reward : 2800/ Episode : 300
+643_th Game_End = Reward : 2100/ Episode : 300
+644_th Game_End = Reward : 2140/ Episode : 300
+645_th Game_End = Reward : 620/ Episode : 300
+646_th Game_End = Reward : 300/ Episode : 300
+647_th Game_End = Reward : 640/ Episode : 300
+648_th Game_End = Reward : 900/ Episode : 300
+649_th Game_End = Reward : 380/ Episode : 300
+650_th Game_End = Reward : 1500/ Episode : 300
+651_th Game_End = Reward : 1040/ Episode : 300
+652_th Game_End = Reward : 340/ Episode : 300
+653_th Game_End = Reward : 2100/ Episode : 300
+654_th Game_End = Reward : 1080/ Episode : 300
+655_th Game_End = Reward : 1460/ Episode : 300
+656_th Game_End = Reward : 254/ Episode : 300
+657_th Game_End = Reward : 1560/ Episode : 300
+658_th Game_End = Reward : 300/ Episode : 300
+659_th Game_End = Reward : 256/ Episode : 300
+660_th Game_End = Reward : 1780/ Episode : 300
+661_th Game_End = Reward : 2620/ Episode : 300
+662_th Game_End = Reward : 300/ Episode : 300
+663_th Game_End = Reward : 1160/ Episode : 300
+664_th Game_End = Reward : 1160/ Episode : 300
+665_th Game_End = Reward : 1100/ Episode : 300
+666_th Game_End = Reward : 300/ Episode : 300
+667_th Game_End = Reward : 300/ Episode : 300
+668_th Game_End = Reward : 1460/ Episode : 300
+669_th Game_End = Reward : 700/ Episode : 300
+670_th Game_End = Reward : 318/ Episode : 300
+671_th Game_End = Reward : 1780/ Episode : 300
+672_th Game_End = Reward : 3000/ Episode : 300
+673_th Game_End = Reward : 528/ Episode : 300
+674_th Game_End = Reward : 300/ Episode : 300
+675_th Game_End = Reward : 500/ Episode : 300
+676_th Game_End = Reward : 1680/ Episode : 300
+677_th Game_End = Reward : 690/ Episode : 300
+678_th Game_End = Reward : 1020/ Episode : 300
+679_th Game_End = Reward : 480/ Episode : 300
+680_th Game_End = Reward : 576/ Episode : 300
+681_th Game_End = Reward : 560/ Episode : 300
+682_th Game_End = Reward : 174/ Episode : 236
+683_th Game_End = Reward : 2120/ Episode : 300
+684_th Game_End = Reward : 2560/ Episode : 300
+685_th Game_End = Reward : 68/ Episode : 274
+686_th Game_End = Reward : -66/ Episode : 210
+687_th Game_End = Reward : 1880/ Episode : 300
+688_th Game_End = Reward : 300/ Episode : 300
+689_th Game_End = Reward : 1840/ Episode : 300
+690_th Game_End = Reward : 1840/ Episode : 300
+691_th Game_End = Reward : 820/ Episode : 300
+692_th Game_End = Reward : 300/ Episode : 300
+693_th Game_End = Reward : 1220/ Episode : 300
+694_th Game_End = Reward : 1320/ Episode : 300
+695_th Game_End = Reward : 540/ Episode : 300
+696_th Game_End = Reward : 1600/ Episode : 300
+697_th Game_End = Reward : 300/ Episode : 300
+698_th Game_End = Reward : 300/ Episode : 300
+699_th Game_End = Reward : 680/ Episode : 300
+700_th Game_End = Reward : 640/ Episode : 300
+701_th Game_End = Reward : 500/ Episode : 300
+702_th Game_End = Reward : 254/ Episode : 300
+703_th Game_End = Reward : 1440/ Episode : 300
+704_th Game_End = Reward : 580/ Episode : 300
+705_th Game_End = Reward : 300/ Episode : 300
+706_th Game_End = Reward : 1800/ Episode : 300
+707_th Game_End = Reward : 1520/ Episode : 300
+708_th Game_End = Reward : 980/ Episode : 300
+709_th Game_End = Reward : 300/ Episode : 300
+710_th Game_End = Reward : 600/ Episode : 300
+711_th Game_End = Reward : 1460/ Episode : 300
+712_th Game_End = Reward : 2800/ Episode : 300
+713_th Game_End = Reward : 420/ Episode : 300
+714_th Game_End = Reward : 460/ Episode : 300
+715_th Game_End = Reward : 288/ Episode : 300
+716_th Game_End = Reward : 91/ Episode : 293
+717_th Game_End = Reward : 320/ Episode : 300
+718_th Game_End = Reward : 1780/ Episode : 300
+719_th Game_End = Reward : 1720/ Episode : 300
+720_th Game_End = Reward : 1660/ Episode : 300
+721_th Game_End = Reward : 920/ Episode : 300
+722_th Game_End = Reward : 800/ Episode : 300
+723_th Game_End = Reward : 81/ Episode : 283
+724_th Game_End = Reward : 500/ Episode : 300
+725_th Game_End = Reward : 1860/ Episode : 300
+726_th Game_End = Reward : 1000/ Episode : 300
+727_th Game_End = Reward : 1420/ Episode : 300
+728_th Game_End = Reward : 2860/ Episode : 300
+729_th Game_End = Reward : 1500/ Episode : 300
+730_th Game_End = Reward : 880/ Episode : 300
+731_th Game_End = Reward : 2240/ Episode : 300
+732_th Game_End = Reward : 2800/ Episode : 300
+733_th Game_End = Reward : 340/ Episode : 300
+734_th Game_End = Reward : 392/ Episode : 300
+735_th Game_End = Reward : 1140/ Episode : 300
+736_th Game_End = Reward : 840/ Episode : 300
+737_th Game_End = Reward : 660/ Episode : 300
+738_th Game_End = Reward : 228/ Episode : 300
+739_th Game_End = Reward : 1020/ Episode : 300
+740_th Game_End = Reward : 740/ Episode : 300
+741_th Game_End = Reward : 400/ Episode : 300
+742_th Game_End = Reward : 480/ Episode : 300
+743_th Game_End = Reward : 1840/ Episode : 300
+744_th Game_End = Reward : 2960/ Episode : 300
+745_th Game_End = Reward : 1000/ Episode : 300
+746_th Game_End = Reward : 760/ Episode : 300
+747_th Game_End = Reward : 1600/ Episode : 300
+748_th Game_End = Reward : 1460/ Episode : 300
+749_th Game_End = Reward : 1640/ Episode : 300
+750_th Game_End = Reward : 420/ Episode : 300
+751_th Game_End = Reward : 620/ Episode : 300
+752_th Game_End = Reward : 300/ Episode : 300
+753_th Game_End = Reward : 400/ Episode : 300
+754_th Game_End = Reward : 2540/ Episode : 300
+755_th Game_End = Reward : 1540/ Episode : 300
+756_th Game_End = Reward : 1240/ Episode : 300
+757_th Game_End = Reward : 1500/ Episode : 300
+758_th Game_End = Reward : 320/ Episode : 300
+759_th Game_End = Reward : 1320/ Episode : 300
+760_th Game_End = Reward : 480/ Episode : 300
+761_th Game_End = Reward : 274/ Episode : 300
+762_th Game_End = Reward : 3020/ Episode : 300
+763_th Game_End = Reward : 300/ Episode : 300
+764_th Game_End = Reward : 1780/ Episode : 300
+765_th Game_End = Reward : 340/ Episode : 300
+766_th Game_End = Reward : 300/ Episode : 300
+767_th Game_End = Reward : 296/ Episode : 300
+768_th Game_End = Reward : 1220/ Episode : 300
+769_th Game_End = Reward : 960/ Episode : 300
+770_th Game_End = Reward : 300/ Episode : 300
+771_th Game_End = Reward : 1160/ Episode : 300
+772_th Game_End = Reward : 300/ Episode : 300
+773_th Game_End = Reward : 1260/ Episode : 300
+774_th Game_End = Reward : 400/ Episode : 300
+775_th Game_End = Reward : 460/ Episode : 300
+776_th Game_End = Reward : 680/ Episode : 300
+777_th Game_End = Reward : 800/ Episode : 300
+0_th Game_End = Reward : 600/ Episode : 300
+1_th Game_End = Reward : 80/ Episode : 300
+2_th Game_End = Reward : 140/ Episode : 300
+0_th Game_End = Reward : 240/ Episode : 300
+0_th Game_End = Reward : 400/ Episode : 300
+1_th Game_End = Reward : 240/ Episode : 300
+2_th Game_End = Reward : 56/ Episode : 300
+-76
+-34
+-110
+-78
+-56
+-106
+266
+-70
+-94
+-82
+-38
+-122
+-82
+-104
+-72
+-100
+-98
+-60
+-96
+-92
+-74
+-112
+-10
+-104
+-96
+-96
+-112
+-82
+-104
+-82
+-90
+-80
+-96
+-76
+-106
+-100
+-62
+-68
+-88
+-70
+40
+-96
+38
+-44
+-112
+-92
+-84
+-24
+-96
+-78
+-84
+-52
+-46
+-94
+-74
+-74
+-106
+-116
+-52
+-74
+-66
+-116
+-88
+-92
+14
+-90
+-118
+-104
+-92
+-72
+88
+-98
+-96
+-92
+-92
+-100
+-88
+-92
+-50
+-72
+-112
+8
+-84
+-82
+-118
+-64
+-94
+-112
+-58
+-114
+-96
+-72
+-32
+-28
+-88
+-66
+-96
+-56
+-78
+-76
+-90
+-94
+-60
+-32
+50
+-76
+-78
+-114
+-86
+-14
+-76
+-100
+-118
+-148
+-42
+-52
+-24
+-100
+-92
+-86
+178
+86
+-74
+-86
+-72
+-124
+-78
+-232
+-54
+-68
+-114
+-172
+-118
+-92
+-118
+-114
+-100
+200
+-138
+-94
+-112
+-262
+48
+-78
+-112
+-112
+0
+168
+188
+-86
+168
+-112
+-208
+200
+88
+-112
+-112
+-90
+-172
+-136
+-52
+-190
+-244
+-86
+1060
+-112
+134
+-126
+290
+86
+-182
+0
+-38
+-112
+-112
+-112
+528
+-68
+1038
+-44
+-64
+-122
+-52
+-142
+-68
+-112
+620
+-112
+-112
+760
+576
+-112
+708
+1148
+1028
+-112
+-112
+906
+-4
+728
+-72
+-102
+-114
+128
+100
+48
+-112
+-80
+0
+-136
+430
+-72
+-38
+0
+-88
+1352
+172
+-126
+180
+-84
+128
+0
+0
+0
+-72
+1360
+-116
+-12
+112
+-112
+540
+1040
+84
+-54
+-112
+-8
+318
+-60
+0
+580
+718
+-80
+60
+-108
+-116
+-120
+0
+-66
+-54
+198
+0
+118
+260
+0
+120
+94
+560
+520
+140
+1580
+816
+334
+0
+620
+-120
+-182
+-16
+-24
+386
+-172
+1420
+420
+1424
+120
+1420
+360
+-62
+-88
+-114
+-112
+-96
+-64
+-98
+-102
+28
+-86
+-84
+-58
+-36
+36
+-96
+-100
+-26
+110
+-52
+-110
+-92
+-36
+-116
+-112
+-116
+-96
+-94
+-74
+-106
+-92
+-102
+-82
+-34
+-106
+-114
+-68
+-56
+-108
+-50
+-64
+-102
+-78
+-78
+-74
+20
+-80
+-112
+-86
+-112
+-70
+28
+-126
+-84
+-96
+-30
+-60
+-92
+-112
+-126
+-112
+-74
+-12
+-72
+-112
+-72
+-92
+-96
+-110
+-96
+-82
+-100
+-106
+-88
+-120
+-72
+-86
+-110
+-112
+-112
+-92
+-98
+-98
+-108
+-66
+-96
+-102
+-98
+-82
+-56
+-100
+-114
+-54
+-82
+-94
+-66
+-112
+-106
+-72
+-58
+-66
+-94
+-44
+-112
+-14
+-60
+-98
+2
+-112
+104
+-40
+52
+-84
+-114
+-92
+-112
+-72
+-118
+-128
+-114
+-98
+-52
+-60
+-102
+-98
+24
+-70
+-78
+-124
+-74
+-122
+-72
+-122
+-146
+-146
+-92
+-88
+-146
+-32
+-38
+-78
+-72
+-72
+-130
+-142
+-72
+-98
+-60
+-78
+-58
+-24
+-64
+-32
+-94
+-16
+-74
+-168
+-22
+-156
+-112
+-106
+-176
+-118
+-70
+-114
+-112
+-162
+-116
+-62
+-176
+-60
+-92
+-38
+28
+-76
+-58
+-94
+340
+-46
+-84
+118
+50
+-114
+-118
+-116
+-112
+-112
+-64
+-62
+-68
+128
+-66
+-4
+-26
+246
+116
+630
+-112
+-112
+-84
+258
+-44
+80
+-62
+900
+-46
+414
+400
+0
+280
+-106
+-100
+1600
+-50
+610
+328
+258
+660
+0
+488
+-120
+-114
+-112
+0
+540
+0
+1330
+680
+1340
+0
+1500
+-120
+242
+0
+406
+1088
+600
+-6
+0
+-88
+1260
+1718
+480
+1560
+0
+298
+2160
+28
+-112
+104
+-24
+800
+-92
+2220
+1040
+746
+2320
+300
+20
+-50
+660
+-112
+620
+-42
+1020
+400
+340
+200
+108
+680
+660
+-100
+328
+-90
+920
+28
+-112
+-14
+80
+780
+1260
+1260
+-112
+720
+300
+-38
+232
+226
+1020
+20
+20
+1840
+2400
+2020
+20
+166
+0
+-126
+70
+-112
+150
+-10
+-2
+-116
+-202
+-38
+-108
+-10
+-78
+30
+-12
+10
+-54
+-62
+390
+72
+-112
+-74
+28
+190
+-14
+50
+-184
+40
+-134
+150
+130
+-10
+-236
+-74
+78
+-10
+-10
+-112
+10
+-8
+-240
+152
+-46
+-106
+0
+-8
+-10
+110
+-128
+-10
+90
+-16
+-112
+-40
+-10
+-10
+110
+-132
+-128
+-112
+-10
+-122
+-10
+-70
+-26
+-10
+20
+-40
+70
+-118
+70
+104
+0
+-10
+118
+-10
+-146
+-42
+-30
+-112
+-114
+-10
+-242
+-10
+-90
+-98
+30
+-134
+960
+10
+-20
+-164
+30
+-184
+-212
+-12
+0
+-12
+-38
+-10
+-112
+-98
+-10
+-102
+150
+-10
+-128
+-40
+4
+-98
+-64
+-112
+-114
+-100
+420
+750
+470
+-10
+14
+-42
+0
+140
+0
+460
+-112
+-112
+-72
+-54
+-114
+302
+-150
+-10
+-112
+-56
+-84
+248
+-32
+-112
+-116
+-10
+-172
+-12
+-218
+10
+-32
+136
+410
+88
+398
+524
+138
+-34
+-186
+-68
+-86
+-36
+-56
+-112
+-52
+8
+-112
+-134
+-186
+4
+-72
+730
+28
+180
+-140
+90
+184
+-118
+-120
+-112
+-92
+182
+-174
+608
+160
+-10
+950
+650
+1048
+-66
+-86
+-118
+-154
+-10
+-54
+-100
+590
+-112
+30
+-24
+2
+240
+-92
+-10
+1284
+294
+8
+-112
+-162
+-42
+114
+-76
+1780
+300
+1130
+-64
+40
+-162
+180
+290
+950
+630
+1270
+-112
+1210
+870
+2030
+408
+-112
+-112
+1248
+-112
+546
+548
+-112
+-86
+110
+1440
+1260
+200
+-112
+-112
+288
+1326
+402
+8
+2190
+1410
+-38
+462
+-84
+1110
+-10
+-10
+330
+-112
+720
+-52
+-112
+570
+452
+1510
+-94
+-74
+60
+1060
+-112
+1330
+1140
+660
+-92
+1170
+970
+310
+2270
+-10
+3632
+610
+-60
+1670
+950
+574
+-10
+1240
+30
+1670
+-112
+-10
+1800
+1090
+648
+610
+2140
+-16
+3720
+720
+260
+1010
+3700
+0
+90
+3480
+3100
+2720
+690
+600
+1210
+1970
+3340
+2980
+790
+1790
+1490
+2060
+1350
+2640
+3760
+2160
+1130
+610
+3240
+1960
+2140
+760
+2230
+1750
+2380
+3440
+710
+3400
+3940
+4580
+1450
+2710
+3620
+930
+270
+2750
+140
+-126
+1170
+-10
+1840
+-62
+2400
+2260
+3000
+1730
+1410
+1290
+3020
+1270
+3360
+1270
+2510
+3060
+90
+2700
+3100
+3420
+3600
+1690
+2700
+3960
+2130
+376
+3050
+650
+2630
+3540
+1310
+3920
+2370
+0
+2410
+1690
+3520
+1028
+830
+470
+2660
+3340
+-10
+630
+3990
+1410
+4140
+2960
+1790
+2540
+3320
+2040
+570
+950
+3800
+3660
+1330
+4040
+1450
+1690
+2150
+2980
+1310
+2740
+2870
+1850
+-20
+1410
+1350
+1690
+1390
+1930
+1730
+3920
+3880
+1710
+1120
+-126
+3080
+1800
+810
+3000
+2830
+3260
+2820
+2130
+1130
+3960
+1650
+1542
+-96
+1640
+2960
+1870
+3080
+760
+2530
+490
+3600
+2060
+1590
+1370
+3860
+2030
+1890
+-116
+328
+2880
+1550
+-114
+1910
+3360
+1870
+3600
+2410
+3420
+-112
+1190
+1990
+3600
+750
+1010
+2350
+3640
+950
+3580
+3940
+2860
+4160
+3580
+3440
+1090
+-10
+2010
+1670
+1880
+3260
+3560
+330
+0
+-112
+3620
+330
+2110
+800
+3820
+1590
+3420
+3760
+2600
+1130
+800
+3400
+2390
+4140
+1150
+2330
+2050
+3420
+2900
+-10
+1900
+0
+2960
+1050
+1410
+1070
+3580
+850
+770
+3760
+2660
+1330
+3650
+3590
+610
+2270
+1470
+890
+1550
+3880
+3580
+3760
+3400
+3260
+3800
+1430
+2950
+1970
+3880
+1750
+2960
+1990
+3170
+3500
+3880
+1650
+2860
+2740
+3600
+810
+570
+2010
+3720
+2120
+3880
+2550
+3820
+2190
+2010
+3400
+-10
+2890
+3610
+1210
+4120
+830
+1790
+1970
+1670
+1150
+1870
+3480
+-10
+2880
+1630
+1450
+2190
+3460
+1890
+3480
+3460
+3000
+1048
+3240
+3100
+2280
+3070
+3180
+2400
+3780
+3420
+2890
+890
+2410
+3400
+4320
+3660
+3290
+4240
+2270
+1370
+2200
+-10
+2070
+3500
+1370
+1630
+2580
+1870
+1110
+1530
+1610
+1750
+3400
+790
+3480
+950
+1890
+1360
+3300
+1630
+3580
+3780
+1510
+2490
+1230
+2880
+3640
+3180
+3518
+1350
+2050
+3120
+1610
+3560
+2150
+1280
+2700
+1470
+2210
+3220
+1650
+2400
+3500
+2410
+2690
+3260
+1770
+2370
+1270
+2070
+3660
+3720
+4300
+2230
+1490
+1450
+420
+2030
+2960
+3500
+1730
+3920
+1520
+3560
+4120
+3620
+2950
+930
+4140
+1920
+1390
+3040
+680
+1010
+1750
+2980
+3820
+3328
+3620
+1810
+3600
+3840
+2150
+1270
+2530
+1860
+3600
+1970
+1250
+3800
+3440
+1690
+1560
+1790
+4220
+3480
+1790
+3080
+3220
+3600
+3200
+4340
+2720
+2070
+1730
+1870
+2310
+1970
+1030
+2550
+1410
+2750
+2030
+2730
+3610
+1710
+2700
+4120
+4020
+1510
+1530
+2630
+1770
+3360
+3500
+1230
+1250
+3120
+2420
+3300
+3040
+1950
+3460
+2840
+3620
+1110
+2270
+2510
+4050
+1010
+4160
+3220
+3978
+3140
+130
+1430
+3120
+1810
+1350
+770
+2010
+2600
+2530
+3440
+2320
+2060
+3060
+1910
+1970
+2570
+3100
+2050
+2800
+2590
+1440
+3100
+3400
+3480
+1910
+1750
+1330
+3940
+2150
+3740
+1830
+1890
+1450
+1810
+3120
+2360
+1570
+2130
+1490
+1990
+2870
+3980
+2920
+1490
+1690
+3560
+1270
+2570
+490
+3420
+3280
+2920
+3180
+3800
+3200
+1150
+1870
+3740
+730
+4040
+2170
+3680
+3480
+2780
+2130
+1310
+2130
+910
+3760
+770
+3620
+2630
+3620
+1690
+3960
+2690
+3840
+430
+2530
+1770
+2920
+1210
+4100
+3560
+3820
+1450
+3480
+3880
+2680
+3820
+3420
+2680
+3000
+1450
+1830
+1550
+2250
+1980
+1270
+3180
+3080
+2070
+3320
+1390
+2170
+3500
+3240
+750
+3340
+1150
+2520
+2150
+4020
+1670
+1690
+1090
+2100
+2980
+3020
+70
+1030
+1550
+2060
+2300
+590
+3520
+2270
+1490
+3580
+3090
+1250
+1950
+1790
+4060
+4090
+1170
+3380
+890
+2730
+1690
+2110
+3460
+2230
+2960
+1250
+2450
+770
+3920
+2150
+2470
+3380
+1690
+1670
+2510
+1890
+1430
+3050
+4090
+2170
+3220
+3660
+3090
+2870
+4020
+2950
+1880
+2190
+1650
+890
+2800
+4160
+3680
+3350
+1130
+1580
+3160
+2250
+1770
+1410
+3820
+1550
+1920
+1570
+2150
+2820
+4200
+3820
+3520
+1830
+1550
+2930
+1790
+1750
+1370
+2820
+2450
+2980
+3180
+1590
+2270
+2010
+3120
+2920
+2360
+1990
+2230
+3060
+3620
+3300
+1590
+1390
+1750
+3360
+1650
+1290
+2650
+1750
+2980
+1410
+2090
+1690
+2590
+3820
+3440
+1570
+2760
+1850
+2960
+2340
+2330
+2350
+2570
+1770
+2920
+1950
+2880
+2760
+910
+1670
+1740
+870
+930
+2230
+3620
+1210
+1270
+3620
+2400
+2940
+2920
+2690
+2570
+2460
+1510
+2430
+1110
+2950
+3060
+3240
+2470
+2550
+3680
+1470
+3680
+3440
+3940
+1900
+2530
+3420
+1390
+3440
+2540
+1610
+2080
+930
+2170
+2190
+1450
+2190
+1890
+2210
+1730
+2010
+2580
+4380
+2260
+2140
+3510
+3900
+3340
+1310
+3200
+1410
+1750
+1710
+3400
+3860
+1930
+970
+3300
+3840
+3380
+2300
+1570
+2010
+3400
+3360
+1710
+1170
+3160
+1950
+3220
+2130
+2500
+2060
+1430
+2310
+2150
+2770
+1870
+1330
+3510
+50
+3320
+1130
+4060
+3190
+2760
+3080
+3580
+2900
+2000
+810
+3560
+3840
+3500
+1030
+2570
+1670
+1850
+3670
+2210
+2330
+1650
+1890
+1530
+3780
+3180
+2550
+1350
+2090
+3770
+2040
+3060
+3740
+1590
+3340
+2070
+2610
+1230
+3110
+1330
+2110
+1780
+1230
+2810
+1980
+790
+1250
+1690
+3180
+3650
+2860
+3160
+2010
+3940
+2720
+2410
+2720
+3280
+910
+3960
+3020
+3820
+1270
+3780
+1830
+2420
+1980
+3540
+2340
+3160
+1260
+3840
+550
+3920
+770
+970
+3340
+1170
+2690
+1130
+1730
+2340
+4040
+3800
+3098
+950
+3500
+2720
+3400
+1890
+2470
+3800
+3170
+150
+3860
+1690
+2230
+1150
+2070
+3560
+4130
+2390
+4120
+2700
+1640
+3600
+1910
+2500
+1590
+1710
+2520
+3140
+3200
+2780
+1170
+1990
+3060
+2560
+3200
+1310
+2270
+1130
+390
+3190
+1990
+510
+3260
+1130
+2210
+3160
+1210
+2450
+2380
+3540
+1870
+4220
+2000
+650
+1770
+3780
+990
+2800
+4000
+1090
+1170
+2670
+3260
+10
+2050
+2370
+2420
+1870
+3240
+3500
+1270
+1770
+4260
+2080
+1830
+1990
+1310
+1950
+2660
+2540
+1360
+3580
+3400
+3880
+3590
+3540
+1830
+1680
+1490
+4540
+3520
+630
+1270
+1940
+290
+3860
+1370
+3280
+1570
+3240
+4100
+2150
+3710
+2920
+1550
+690
+4120
+3400
+3440
+1590
+290
+1010
+3000
+2290
+1290
+3360
+2270
+1890
+1620
+3460
+2430
+2390
+3880
+1250
+4360
+1850
+1310
+3320
+2520
+1390
+2330
+2230
+2330
+1970
+3340
+70
+1690
+1090
+2550
+2010
+1730
+3140
+1690
+3580
+3960
+3510
+3760
+3160
+2348
+870
+2250
+1610
+3420
+2400
+2540
+3820
+2880
+2250
+2740
+3560
+3980
+1610
+1630
+1510
+3600
+2050
+1770
+3820
+1710
+1970
+2090
+1550
+1950
+2150
+2860
+1770
+1030
+3540
+1410
+3950
+2800
+1970
+1558
+1590
+4520
+3620
+1510
+2050
+3560
+3470
+1450
+1430
+2130
+1330
+1510
+4220
+2720
+3460
+1900
+2110
+1810
+1810
+1610
+2290
+1550
+2310
+3160
+2110
+3360
+1090
+1890
+1350
+3160
+3010
+960
+1910
+2070
+2130
+1490
+3960
+1290
+3060
+2110
+3870
+2660
+2330
+2320
+2960
+1630
+850
+1670
+3220
+2950
+1370
+4100
+3000
+1190
+3800
+970
+1930
+2730
+1570
+1270
+2550
+2120
+2780
+2180
+3360
+2280
+1490
+2020
+2010
+2630
+1370

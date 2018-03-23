@@ -1,0 +1,5 @@
+### Main Center for data process
+
+it get data and process image and show with cv2
+
+if you target setting in camera that data give you, and activate agent.py, train dqn
